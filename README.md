@@ -1,41 +1,41 @@
 ## Python
 
-- [Ansible](https://github.com/ansible/ansible) _(label: easyfix)_ <br> A simple IT automation platform
-- [ArviZ](https://github.com/arviz-devs/arviz) _(label: Beginner)_ <br> Exploratory Anaylsis of Bayesian Models.
-- [Bokeh](https://github.com/bokeh/bokeh) _(label: good-first-issue)_ <br> Bokeh is an interactive visualization library for modern web browsers.
-- [BorgBackup](https://github.com/borgbackup/borg) _(label: easy)_ <br> Deduplicating backup program with compression and authenticated encryption.
-- [CiviWiki](https://github.com/CiviWiki/OpenCiviWiki) _(label: good-first-issue)_ <br> Building a Better Democracy for the Internet Age
-- [coala](https://github.com/issues?utf8=✓&q=is:open+is:issue+user:coala+label:difficulty/newcomer++no:assignee) _(label: n/a)_ <br> A unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
-- [Colossal-AI](https://github.com/hpcaitech/ColossalAI) _(label: good first issue)_ <br> An open-source deep learning system for large-scale model training and inference with high efficiency and low cost.
-- [cookiecutter](https://github.com/cookiecutter/cookiecutter) _(label: good first issue)_ <br> A command-line utility that creates projects from cookiecutters (project templates). E.g. Python package projects, jQuery plugin projects.
-- [Create aio app](https://github.com/aio-libs/create-aio-app) _(label: good-first-issue)_ <br> A command line utility that creates the aiohttp template with the best practices.
-- [datascience](https://github.com/data-8/datascience) _(label: good-first-issue)_ <br> A Jupyter notebook Python library for introductory data science.
-- [django cookiecutter](https://github.com/pydanny/cookiecutter-django) _(label: hacktoberfest)_ <br> An implementation of Python for backend web development.
-- [Fabric](https://github.com/fabric/fabric) _(label: Low-hanging-fruit)_ <br> Pythonic remote execution and deployment.
-- [H2O Wave](https://github.com/h2oai/wave) _(label: good first issue)_ <br> Realtime Web Apps and Dashboards framework for Python and R. Suited (not only) for AI audience.
-- [jarvis](https://github.com/sukeesh/Jarvis) _(label: difficulty/newcomer)_ <br> A personal assistant for Linux, MacOs and Windows based on Command line Interface.
-- [JARVIS-on-Messenger](https://github.com/swapagarwal/JARVIS-on-Messenger) _(label: Low-Hanging-Fruit)_ <br> 💬 A community-driven python bot that aims to be as simple as possible to serve humans with their everyday tasks http://m.me/J.A.R.V.I.S.on.Messenger
-- [Jupyter notebook](https://github.com/jupyter/notebook) _(label: good-first-issue)_ <br> Jupyter interactive notebook.
-- [Kinto](https://github.com/Kinto/kinto) _(label: easy-pick)_ <br> A lightweight JSON storage service with synchronisation and sharing abilities.
-- [Kinto.sh](https://github.com/rbreaves/kinto) _(label: first-timers-only)_ <br> Make Linux & Windows type like a mac.
-- [Mailpile](https://github.com/mailpile/Mailpile) _(label: Low-Hanging-Fruit)_ <br> A free & open modern, fast email client with user-friendly encryption and privacy features
-- [matplotlib](https://github.com/matplotlib/matplotlib) _(label: good-first-issue)_ <br> Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.
-- [MindsDB](https://github.com/mindsdb/mindsdb) _(label: good-first-issue)_ <br> MindsDB is an open source AI layer for existing databases.
-- [mitmproxy](https://github.com/mitmproxy/mitmproxy) _(label: help-wanted)_ <br> An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers
-- [mygpo](https://github.com/gpodder/mygpo) _(label: starter-issue)_ <br> The webservice for gpodder.net, a libre web service that allows users to manage their podcast subscriptions and discover new content.
-- [mypy](https://github.com/python/mypy) _(label: good-first-issue)_ <br> An optional static typing for python.
-- [OpenMetadata](https://github.com/open-metadata/OpenMetadata) _(label: good first issue)_ <br> OpenMetadata is an all-in-one platform for data discovery, data quality, observability, governance, data lineage, and team collaboration.
-- [opsdroid](https://github.com/opsdroid/opsdroid) _(label: good-first-issue)_ <br> An open source chat-ops bot framework.
-- [pandas](https://github.com/pandas-dev/pandas) _(label: good-first-issue)_ <br> Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
-- [Pytest](https://github.com/pytest-dev/pytest) _(label: status:-easy)_ <br> The pytest framework makes it easy to write small tests, yet scales to support complex functional testing.
-- [Python Babel](https://github.com/python-babel/babel) _(label: difficulty/low)_ <br> The Python Internationalization Library.
-- [pythonping](https://github.com/alessandromaggio/pythonping) _(label: good first issue)_ <br> PythonPing is a simple library to execute ICMP pings natively in Python without resorting to spawning a shell.
-- [Pytorch](https://github.com/pytorch/pytorch) _(label: good-first-issue)_ <br> PyTorch is an open source machine learning library based on the Torch library, used for applications such as computer vision and natural language processing.
-- [SaltStack](https://github.com/saltstack/salt) _(label: good-first-issue)_ <br> Software to automate the management and configuration of any infrastructure or application at scale.
-- [scikit-learn](https://github.com/scikit-learn/scikit-learn) _(label: good-first-issue)_ <br> Scikit-learn is a machine learning library for Python.
-- [scrapy](https://github.com/scrapy/scrapy) _(label: good-first-issue)_ <br> A fast high-level web crawling & scraping framework for Python.
-- [Sorting-Algorithms-Visualizer](https://github.com/LucasPilla/Sorting-Algorithms-Visualizer) _(label: good-first-issue)_ <br> A tool for visualizing sorting algorithms with a educational Wiki Page.
-- [SymPy](https://github.com/sympy/sympy) _(label: Easy-to-Fix)_ <br> A Python library for symbolic mathematics.
-- [tree-sitter-legesher-python](https://github.com/legesher/tree-sitter-legesher-python) _(label: Good-First-Issue)_ <br> Learn and code in Python using your native language.
-- [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) _(label: level:starter)_ <br> The strictest and most opinionated python linter ever!
-- [Zulip](https://github.com/zulip/zulip) _(label: good-first-issue)_ <br> Powerful open source group chat.
+- [Ansible](https://github.com/ansible/ansible) _(easyfix)_ <br> A simple IT automation platform
+- [ArviZ](https://github.com/arviz-devs/arviz) _(Beginner)_ <br> Exploratory Anaylsis of Bayesian Models.
+- [Bokeh](https://github.com/bokeh/bokeh) _(good-first-issue)_ <br> Bokeh is an interactive visualization library for modern web browsers.
+- [BorgBackup](https://github.com/borgbackup/borg) _(easy)_ <br> Deduplicating backup program with compression and authenticated encryption.
+- [CiviWiki](https://github.com/CiviWiki/OpenCiviWiki) _(good-first-issue)_ <br> Building a Better Democracy for the Internet Age
+- [coala](https://github.com/issues?utf8=✓&q=is:open+is:issue+user:coala+label:difficulty/newcomer++no:assignee) _(n/a)_ <br> A unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
+- [Colossal-AI](https://github.com/hpcaitech/ColossalAI) _(good first issue)_ <br> An open-source deep learning system for large-scale model training and inference with high efficiency and low cost.
+- [cookiecutter](https://github.com/cookiecutter/cookiecutter) _(good first issue)_ <br> A command-line utility that creates projects from cookiecutters (project templates). E.g. Python package projects, jQuery plugin projects.
+- [Create aio app](https://github.com/aio-libs/create-aio-app) _(good-first-issue)_ <br> A command line utility that creates the aiohttp template with the best practices.
+- [datascience](https://github.com/data-8/datascience) _(good-first-issue)_ <br> A Jupyter notebook Python library for introductory data science.
+- [django cookiecutter](https://github.com/pydanny/cookiecutter-django) _(hacktoberfest)_ <br> An implementation of Python for backend web development.
+- [Fabric](https://github.com/fabric/fabric) _(Low-hanging-fruit)_ <br> Pythonic remote execution and deployment.
+- [H2O Wave](https://github.com/h2oai/wave) _(good first issue)_ <br> Realtime Web Apps and Dashboards framework for Python and R. Suited (not only) for AI audience.
+- [jarvis](https://github.com/sukeesh/Jarvis) _(difficulty/newcomer)_ <br> A personal assistant for Linux, MacOs and Windows based on Command line Interface.
+- [JARVIS-on-Messenger](https://github.com/swapagarwal/JARVIS-on-Messenger) _(Low-Hanging-Fruit)_ <br> 💬 A community-driven python bot that aims to be as simple as possible to serve humans with their everyday tasks http://m.me/J.A.R.V.I.S.on.Messenger
+- [Jupyter notebook](https://github.com/jupyter/notebook) _(good-first-issue)_ <br> Jupyter interactive notebook.
+- [Kinto](https://github.com/Kinto/kinto) _(easy-pick)_ <br> A lightweight JSON storage service with synchronisation and sharing abilities.
+- [Kinto.sh](https://github.com/rbreaves/kinto) _(first-timers-only)_ <br> Make Linux & Windows type like a mac.
+- [Mailpile](https://github.com/mailpile/Mailpile) _(Low-Hanging-Fruit)_ <br> A free & open modern, fast email client with user-friendly encryption and privacy features
+- [matplotlib](https://github.com/matplotlib/matplotlib) _(good-first-issue)_ <br> Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.
+- [MindsDB](https://github.com/mindsdb/mindsdb) _(good-first-issue)_ <br> MindsDB is an open source AI layer for existing databases.
+- [mitmproxy](https://github.com/mitmproxy/mitmproxy) _(help-wanted)_ <br> An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers
+- [mygpo](https://github.com/gpodder/mygpo) _(starter-issue)_ <br> The webservice for gpodder.net, a libre web service that allows users to manage their podcast subscriptions and discover new content.
+- [mypy](https://github.com/python/mypy) _(good-first-issue)_ <br> An optional static typing for python.
+- [OpenMetadata](https://github.com/open-metadata/OpenMetadata) _(good first issue)_ <br> OpenMetadata is an all-in-one platform for data discovery, data quality, observability, governance, data lineage, and team collaboration.
+- [opsdroid](https://github.com/opsdroid/opsdroid) _(good-first-issue)_ <br> An open source chat-ops bot framework.
+- [pandas](https://github.com/pandas-dev/pandas) _(good-first-issue)_ <br> Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
+- [Pytest](https://github.com/pytest-dev/pytest) _(status:-easy)_ <br> The pytest framework makes it easy to write small tests, yet scales to support complex functional testing.
+- [Python Babel](https://github.com/python-babel/babel) _(difficulty/low)_ <br> The Python Internationalization Library.
+- [pythonping](https://github.com/alessandromaggio/pythonping) _(good first issue)_ <br> PythonPing is a simple library to execute ICMP pings natively in Python without resorting to spawning a shell.
+- [Pytorch](https://github.com/pytorch/pytorch) _(good-first-issue)_ <br> PyTorch is an open source machine learning library based on the Torch library, used for applications such as computer vision and natural language processing.
+- [SaltStack](https://github.com/saltstack/salt) _(good-first-issue)_ <br> Software to automate the management and configuration of any infrastructure or application at scale.
+- [scikit-learn](https://github.com/scikit-learn/scikit-learn) _(good-first-issue)_ <br> Scikit-learn is a machine learning library for Python.
+- [scrapy](https://github.com/scrapy/scrapy) _(good-first-issue)_ <br> A fast high-level web crawling & scraping framework for Python.
+- [Sorting-Algorithms-Visualizer](https://github.com/LucasPilla/Sorting-Algorithms-Visualizer) _(good-first-issue)_ <br> A tool for visualizing sorting algorithms with a educational Wiki Page.
+- [SymPy](https://github.com/sympy/sympy) _(Easy-to-Fix)_ <br> A Python library for symbolic mathematics.
+- [tree-sitter-legesher-python](https://github.com/legesher/tree-sitter-legesher-python) _(Good-First-Issue)_ <br> Learn and code in Python using your native language.
+- [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) _(level:starter)_ <br> The strictest and most opinionated python linter ever!
+- [Zulip](https://github.com/zulip/zulip) _(good-first-issue)_ <br> Powerful open source group chat.
